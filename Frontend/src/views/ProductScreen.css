@@ -1,0 +1,15 @@
+.product_tit {
+    text-align: center;
+    margin-left: 100px;
+    font-size: 2rem;
+}
+
+.props{
+    list-style: none;
+    text-align: left;
+    font-size: 1.4rem;
+    margin-left: 30px;
+}
+.props li + li {
+    margin-top: 70px;
+}

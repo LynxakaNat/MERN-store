@@ -1,0 +1,15 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 10px;
+    box-shadow: 0 0 10px rgb(66, 169, 247);
+    max-width: 400px;
+    width: 100%;
+}
+
+.card-content {
+    padding: 10px;
+    text-align: center;
+}
+
