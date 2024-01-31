@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 
 //console.log("library")
-mongoose.connect('mongodb+srv://zychowicz909:f2tNrawdgy7mMOJC@cluster.v2ssvia.mongodb.net/?retryWrites=true&w=majority')
+mongoose.connect('')
 //console.log("mongoose connection")
 const db = mongoose.connection
 db.on('error', (error) => console.error(error))
